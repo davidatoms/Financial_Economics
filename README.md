@@ -1,4 +1,5 @@
-!['SLCA Logo No Copyright Intended - Educational Use Only]('https://github.com/davidatoms/Financial_Economics/blob/master/download.png')
+!['SLCA Logo No Copyright Intended - Educational Use Only](download.png)
+<br><br>
 SLCA.K - US SILICA HOLDINGS INC
 -------------------------------
 ### Context:
