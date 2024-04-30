@@ -1,3 +1,4 @@
+!['SLCA Logo No Copyright Intended - Educational Use Only]()
 SLCA.K - US SILICA HOLDINGS INC
 -------------------------------
 ### Context:
