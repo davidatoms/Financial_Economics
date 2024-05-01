@@ -25,4 +25,37 @@ and SandBox Logistics. EP Minerals is engaged in the production
 of products derived from diatomaceous earth, perlite, 
 engineered clays and non-activated clays. (source: Reuters)
 
-### 
+### Investment Rationale:
+- Strategic fit: Explain how SLCA fits within Apollo's portfolio, including
+synergies with existing investments.
+- Market opportunity: Discuss the market dynamics, including growth potential
+competitive landscape, and regulatory environment.
+- Value creation: Outline the strategies for increasing value, such as 
+operational improvements, cost savings, and revenue growth.
+
+### Financial Analysis:
+- Revenue: Analyze the revenue trends, growth drivers, and key segments.
+- Valuation: Include P/E Ratio, EV/EBITDA, and Price/Book ratio.
+- Financial Performance: Assess the profitability, liquidity, and solvency ratios.
+- Cash Flow: Evaluate the operating cash flow, free cash flow, and capital expenditures.
+- Projected Financials: Provide a forecast for the company's future financial performance.
+- Leverage and Coverage Ratios: Analyze the debt levels and interest coverage ratios.
+
+### Deal Structure and Financing:
+The deal is going to be all cash.
+
+### Risks and Mitigants:
+- Market Risks: Discuss the risks associated with the industry, competition, and market conditions.
+- Execution Risks: Identify the risks related to the integration process and achieving the expected synergies.
+
+### Exit Strategy:
+- Discuss the potential exit strategies for Apollo Global, including IPO, sale, or merger.
+- Evaluate the expected returns and timeline for the investment.
+- Consider the market conditions and industry trends that could impact the exit strategy.
+
+### Graphs and Visuals to Include:
+[] Historical and Projected Revenue, EBITDA, and Net Income
+[] Comparative Valuation Metrics with Peers
+[] Debt and Leverage Metric: Pie chart showing current and projected
+leverage ratios and debt coverage. This would include Debt/Equity,
+Debt/EBITDA, and Interest Coverage Ratios.
