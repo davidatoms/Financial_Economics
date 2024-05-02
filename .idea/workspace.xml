@@ -4,38 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdc18a77-3417-48e6-8038-01783f458a30" name="Changes" comment="Updated Analysis - Turn it in and work on the rest of it tomorrow.">
-      <change afterPath="$PROJECT_DIR$/EDASLCA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RevenueAnalysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPriceAnalysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CHX_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CHX_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CHX_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CLB_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CLB_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CLB_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/LBRT_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/LBRT_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/LBRT_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PTEN_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PTEN_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PTEN_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PUMP_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PUMP_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PUMP_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/RES_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/RES_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/RES_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/WHD_balance_sheet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/WHD_cash_flow.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/WHD_income_statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/balance_sheet_t.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/cash_flow_t.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/income_statement_t.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="fdc18a77-3417-48e6-8038-01783f458a30" name="Changes" comment="Updated, still having issues. Trying to remember what is important to include in the investment memo. Changed methodology. Separate notebooks for goals.">
+      <change afterPath="$PROJECT_DIR$/DiscountedCashFlow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinancialRatios.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDASLCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDASLCA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NotesPS4.md" beforeDir="false" afterPath="$PROJECT_DIR$/NotesPS4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemSet4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/building_permits.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RevenueAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RevenueAnalysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "davidatoms"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;davidatoms&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -116,7 +91,9 @@
       <option name="presentableId" value="Default" />
       <updated>1714445879833</updated>
       <workItem from="1714445887120" duration="16480000" />
-      <workItem from="1714529917314" duration="13111000" />
+      <workItem from="1714529917314" duration="13238000" />
+      <workItem from="1714586577740" duration="980000" />
+      <workItem from="1714602285927" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="Hide protected files and idea files">
       <option name="closed" value="true" />
@@ -150,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714466170690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated, still having issues. Trying to remember what is important to include in the investment memo. Changed methodology. Separate notebooks for goals.">
+      <option name="closed" value="true" />
+      <created>1714547062071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714547062071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hide protected files and idea files" />
     <MESSAGE value="Updated Analysis - Turn it in and work on the rest of it tomorrow." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Analysis - Turn it in and work on the rest of it tomorrow." />
+    <MESSAGE value="Updated, still having issues. Trying to remember what is important to include in the investment memo. Changed methodology. Separate notebooks for goals." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated, still having issues. Trying to remember what is important to include in the investment memo. Changed methodology. Separate notebooks for goals." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Financial_Economics$Fred_Data.coverage" NAME="Fred_Data Coverage Results" MODIFIED="1714447917247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
